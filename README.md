@@ -6,7 +6,7 @@
 ![Location](https://img.shields.io/badge/Server-Equinix%20NY7-orange)
 
 ## 1. Executive Summary
-This project implements an institutional-grade quantitative strategy designed to detect and adapt to different market regimes (Bull, Bear, Sideways, and Crisis). Developed during my undergraduate CS studies in Ireland, this system represents a rigorous application of algorithmic trading principles to real-world financial data.
+This project implements an institutional-grade quantitative strategy designed to detect and adapt to different market regimes (Bull, Bear, Sideways, and Crisis). This system represents a rigorous application of algorithmic trading principles to real-world financial data.
 
 **Key Objective:** Achieve a sustainable annual return of >4% with a maximum drawdown of <25%, prioritizing capital preservation through dynamic asset allocation.
 
@@ -36,14 +36,6 @@ To ensure high-fidelity simulation and professional-grade execution:
 
 ## 4. Research Philosophy: Learning from Failure
 This project follows a rigorous iterative process. The current **V5** version was developed after a systematic root-cause analysis of the **V4 Collapse**, where I identified weaknesses in handling "Flash Crash" scenarios. The current version incorporates a **Crisis Mode** that shifts 80% of the portfolio to `SHY` during extreme volatility.
-
----
-
-## 5. Project Roadmap (Target: 2028 MSc FinTech)
--   **Mar 2026 - Jun 2026:** 12-week Live Paper Trading validation (Current Phase).
--   **Jul 2026:** If validation passes, deploy with NZD 5,000 live capital via Interactive Brokers.
--   **2027:** Explore Machine Learning (ML) for non-linear regime classification.
--   **2028:** Submit full research portfolio for MSc FinTech applications at UoA / AUT.
 
 ---
 
