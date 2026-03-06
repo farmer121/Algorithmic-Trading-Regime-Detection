@@ -1,4 +1,4 @@
-# Algorithmic Trading: Multi-Asset Market Regime Detection (V5)
+# Algorithmic Trading: Multi-Asset Market Regime Detection (V5.1)
 
 ![QuantConnect](https://img.shields.io/badge/Platform-QuantConnect-blue)
 ![Language](https://img.shields.io/badge/Language-Python-yellow)
